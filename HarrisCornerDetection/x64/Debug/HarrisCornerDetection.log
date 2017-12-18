@@ -1,1 +1,3 @@
-﻿  HarrisCornerDetection.vcxproj -> C:\Users\Administrator\Documents\GitHub\HarrisCornerDetection\x64\Debug\HarrisCornerDetection.exe
+﻿  main.cpp
+c:\users\administrator\documents\github\harriscornerdetection\harriscornerdetection\main.cpp(35): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  HarrisCornerDetection.vcxproj -> C:\Users\Administrator\Documents\GitHub\HarrisCornerDetection\x64\Debug\HarrisCornerDetection.exe
